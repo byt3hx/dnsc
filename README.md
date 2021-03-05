@@ -10,6 +10,7 @@ For the single domain
 $ echo google.com | dnsc
 ```
 ![](https://raw.githubusercontent.com/channyein1337/dnsc/main/img/usage%20for%20single%20domain.png)
+
 For multiple domains 
 ```
 $ cat domain.txt | dnsc
