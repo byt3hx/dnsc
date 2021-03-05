@@ -13,3 +13,9 @@ For multiple domains
 ```
 $ cat domain.txt | dnsc
 ```
+
+## Install:
+
+```
+go get github.com/channyein1337/dnsc
+```
