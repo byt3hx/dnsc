@@ -5,6 +5,11 @@ This is the tool that I make when I was scanning the list of domains with nmap. 
 
 ## Usage 
 
+For the single domain
+```
 $ echo google.com | dnsc
-
+```
+For multiple domains 
+```
 $ cat domain.txt | dnsc
+```
