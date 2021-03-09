@@ -6,12 +6,11 @@ import (
 	"flag"
 	"bufio"
 	"os"
-	"color"
 )
 
 
 func logo() {
-	color.Cyan(`
+	fmt.Println(`
 
        __               
   ____/ /___  __________
